@@ -36,6 +36,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    "cheeserater.packages"
 )
 
 MIDDLEWARE_CLASSES = (
